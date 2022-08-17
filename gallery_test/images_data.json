@@ -1,0 +1,50 @@
+{
+    "08.08.2022.jpg": {
+        "src": "images/photos/08.08.2022.jpg",
+        "mtime": 1660000815.6895106,
+        "date": "",
+        "size": [
+            4032,
+            3024
+        ],
+        "type": "image",
+        "description": "",
+        "thumbnail": "images/thumbnails/08.jpg",
+        "thumbnail_size": [
+            214,
+            160
+        ]
+    },
+    "BR1_9455.jpg": {
+        "src": "images/photos/BR1_9455.jpg",
+        "mtime": 1660000367.15363,
+        "date": "",
+        "size": [
+            2905,
+            2456
+        ],
+        "type": "image",
+        "description": "",
+        "thumbnail": "images/thumbnails/BR1_9455.jpg",
+        "thumbnail_size": [
+            190,
+            160
+        ]
+    },
+    "BR1_9862.jpg": {
+        "src": "images/photos/BR1_9862.jpg",
+        "mtime": 1660154184.2196498,
+        "date": "",
+        "size": [
+            1005,
+            1289
+        ],
+        "type": "image",
+        "description": "",
+        "thumbnail": "images/thumbnails/BR1_9862.jpg",
+        "thumbnail_size": [
+            124,
+            160
+        ]
+    }
+}
